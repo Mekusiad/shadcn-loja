@@ -10,7 +10,7 @@ Abra o terminal na pasta onde deseja clonar o repositório e insira o código ab
 git clone git@github.com:Mekusiad/shadcn-loja.git
 ```
 
-Após clonar basta instalar as dependências
+Após clonar basta entrar na posta e instalar as dependências
 
 ```
 npm install
@@ -21,3 +21,11 @@ O programa roda com o código:
 ```
 npm run dev
 ```
+
+## Ferramentas e Tecnologias
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" />
+          
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" />
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original-wordmark.svg" />
