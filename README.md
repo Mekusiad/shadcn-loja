@@ -4,13 +4,13 @@ Desenvolvido com intuito de aprender sobre a biblioteca shadcn. O projeto é um 
 
 ## Instalando
 
-Abra o terminal na pasta onde deseja clonar o repositório e insira o código abaixo
+Abra o terminal na pasta onde deseja clonar o repositório e insira o código abaixo:
 
 ```
 git clone git@github.com:Mekusiad/shadcn-loja.git
 ```
 
-Após clonar basta entrar na posta e instalar as dependências
+Após clonar basta entrar na posta e instalar as dependências:
 
 ```
 npm install
@@ -24,5 +24,4 @@ npm run dev
 
 ## Ferramentas e Tecnologias
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" width=40/> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" width=40 /> |
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original-wordmark.svg" width=40 />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" width=50/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" width=50 /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" width=50 />
