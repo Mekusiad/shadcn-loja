@@ -7,8 +7,7 @@ Desenvolvido com intuito de aprender sobre a biblioteca shadcn. O projeto é um 
 Abra o terminal na pasta onde deseja clonar o repositório e insira o código abaixo
 
 ```
-git@github.com:Mekusiad/shadcn-loja.git
-
+git clone git@github.com:Mekusiad/shadcn-loja.git
 ```
 
 Após clonar basta instalar as dependências
